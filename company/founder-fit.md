@@ -1,27 +1,15 @@
----
-id: company-founder-fit
-title: "Jakobs relevante Stärken und Entwicklungsfelder"
-status: SYNTHESIS
-authority: curated_from_sources
-reviewed_on: "2026-09-25"
-source_ids: ["S01", "S02", "S06", "S09"]
-sensitivity: company_confidential
----
+# Founder Fit
 
-# Jakobs relevante Stärken und Entwicklungsfelder
+Founder advantages:
+- ~15 years film / directing / camera / editing / motion experience,
+- generative AI creative work since 2022,
+- strong multimodal creative-tool fluency,
+- visual storytelling of complex ideas,
+- enterprise client experience,
+- product-adjacent creative work and feedback loops,
+- rapid prototyping with AI,
+- existing AI-creative network/audience,
+- strong preference for positive social/environmental impact.
 
-## Geschäftlich relevante Ausgangslage
-
-Aus Jakobs Angaben: rund 15 Jahre Film-/Motion-Erfahrung; Konzept, Storytelling, Regie, Kamera, Schnitt und Sound; fortgeschrittene generative Bild-/Video-Workflows; Arbeit an der Schnittstelle Creative, Produkt und Engineering. AIstronauts und Kobenstein sind bestehende öffentliche Präsenzen.
-
-Seine beschriebene Handschrift ist „semisurreal“: fotorealistisch mit poetischem, überraschendem Twist. Er interessiert sich besonders dafür, in kurzer Zeit einen Nutzen kreativ auf den Punkt zu bringen und solche Fähigkeiten in wiederverwendbare Systeme zu übersetzen.
-
-## Daraus abgeleiteter Vorteil
-
-Gute und schlechte Creative-Ergebnisse fachlich beurteilen, Kundenprobleme visuell konkret machen, Werkzeuge zu einem nutzbaren Ablauf verbinden und Feedback in Produkt-/Prozessverbesserungen überführen.
-
-## Noch nicht pauschal voraussetzen
-
-Produktives Backend-/Security-Engineering, verlässliche Statistik/Attribution, Media-Buying-Verantwortung, steuerliche oder rechtliche Expertise. Diese Lücken werden durch gezieltes Lernen, überprüfte Werkzeuge und bei Bedarf qualifizierte Partner geschlossen.
-
-Berufliche Referenzen nur mit passenden Nutzungsrechten veröffentlichen. Nicht freigegebene Arbeitgeber- oder Kundendaten sind kein Ausgangsmaterial für neue Firmenskills.
+Strategic implication:
+Exploit creative taste, system design and fast workflow learning rather than compete mainly on generic media buying, generic SaaS engineering or raw asset volume.

@@ -1,55 +1,35 @@
----
-id: company-current-state
-title: "Aktueller Unternehmensstand"
-status: CURRENT
-authority: user_decisions_with_labeled_synthesis
-reviewed_on: "2026-09-25"
-source_ids: ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "S10"]
-sensitivity: company_confidential
----
+# Current Company State
 
-# Aktueller Unternehmensstand
+## DECISION — current direction
+Build an AI-native creative system for companies whose products or services create meaningful positive social or environmental value.
 
-## Das Unternehmen in einem Absatz
+The current entry wedge is **paid-social creative / video ads** rather than a broad full-service agency.
 
-Jakob baut ein AI-native Creative-System für Unternehmen, deren Lösungen einen glaubwürdigen sozialen oder ökologischen Nutzen haben. Der gegenwärtige Einstieg ist ein **Video-Ads-/Paid-Social-Creative-Lernsystem**: Kundenproblem verstehen, relevante Botschaft kreativ ausdrücken, Varianten testen und echte Ergebnisse in die nächste Creative-Runde zurückführen. Es geht nicht nur um mehr oder billigere Videos. Ob dieses Angebot, die Zielgruppe und der Preis funktionieren, ist noch zu validieren.
+The intended loop is:
 
-## Was gilt
+**customer context → creative hypothesis → variants → campaign data → interpretation → reusable learning → better creative**
 
-| Bereich | Aktueller Stand |
-|---|---|
-| Mission | Lösungen für Menschen und Planet sichtbar und verständlich machen. |
-| Startprodukt | Impact Ads Engine als gegenwärtige Arbeitsrichtung; genaue Paketgrenzen offen. |
-| Technischer Ansatz | Beste externe Werkzeuge orchestrieren; kein eigener generischer Videogenerator auf Vorrat. |
-| Kundendaten | Kundenspezifischer Kontext, Assets und möglichst Accounts/API-Abrechnung unter Kundenkontrolle. |
-| Eigener Wert | Kreative Urteilskraft, wiederverwendbare Skills, Evaluierung, Orchestrierung und erlaubte Learnings. |
-| Qualitätsgrenze | Impact-Integrität vor Performance-Optimierung. |
-| Lernrhythmus | Schnelle Creative-/Performance-Runden; kein monatelanges individuelles Tracking als Voraussetzung. |
-| Arbeitsstil | Minimaler CEO-Mental-Load; Entscheidungen und Ausnahmen statt Dateiverwaltung. |
-| Wachstumslogik | Distribution, Produktverbesserung und Support sollen sich gegenseitig verbessern. |
-| Vermögensziel | Eine optional verkaufbare Firma; erster Zielkorridor ca. 1,4–1,5 Mio. EUR Verkaufspreis, kein garantiertes Ergebnis. |
-| Name | AIstronauts ist bestehende Marke; endgültiger Firmen-/Brandname offen. LEILA ist ebenfalls nicht festgelegt. |
-| Rechtsform | Genossenschaft als Übergang versus eigene Gründung/GmbH offen. |
-| Pascal | Relevanter Performance-Partner, mögliche Co-Founder-Frage offen; keine neue Beteiligung beschlossen. |
+## HYPOTHESIS — value proposition
+Help useful solutions become easier to understand, more visible and more compelling, while learning from real campaign outcomes.
 
-## Was ausdrücklich nicht bewiesen ist
+Working framings:
+- Making solutions for people and planet visible.
+- Advertising for people and the planet.
+- Creative systems for companies solving important problems.
 
-Es liegt im ausgewerteten Material kein dokumentierter bezahlter Pilot **dieses konkreten Angebots**, kein belegter Retainer zu 5.000 EUR, keine gemessene 60-%-Normalmarge und kein verifizierter autonomer End-to-End-Lernloop vor. Das heißt nicht, dass Jakob keine Creative-Kunden oder Berufserfahrung hat. Es heißt, dass diese nicht automatisch das neue Geschäftsmodell validieren.
+## HYPOTHESIS — first ICP
+Repeat-purchase impact brands with an existing performance-marketing function appear promising, especially refill, household and personal-care brands.
 
-## Das aussichtsreiche Kundensegment ist eine Hypothese
+This is a market-research hypothesis, not confirmed buying intent.
 
-Die Marktstudie vom 25.09.2026 enthält 73 betrachtete Marken, davon 66 Kandidaten und sieben zurückgestellte Fälle. Wiederkaufgetriebene Haushalts-, Refill- und Körperpflegemarken mit vorhandenem Performance-Team erscheinen als sinnvoller enger Forschungseinstieg. Das ist eine abgeleitete Priorität, keine beschlossene exklusive Nische und keine Liste bestätigter Käufer. Details: [Markt](../market/README.md).
+## OPEN QUESTIONS
+- final company/brand name,
+- final legal structure,
+- exact first offer and price,
+- Pascal’s durable role,
+- how much performance execution can be automated reliably,
+- whether a client portal becomes useful,
+- which customers provide enough data for fast learning.
 
-## Der wichtigste ungeklärte Angebotsentscheid
-
-Verkaufen wir zunächst **Creative-Produktion plus Lernen**, oder übernehmen wir zusätzlich Media Buying, Tracking und Budgetsteuerung? Das verändert Pascals Rolle, Haftung, Preis und den operativen Aufwand. Eine API-Anbindung beantwortet diese Frage nicht.
-
-## So lesen wir die Geschichte richtig
-
-Die ältere Academy-Datei nennt noch Recommerce/E-Bikes als führenden Test und „Ads Engine nur als Alternative“. Das wird durch die jüngere ausdrückliche Impact-/OS-Entwicklung im aktuellen Verlauf überholt. Recommerce bleibt im Ideenarchiv — ohne zu behaupten, es sei durch Kundenversuche widerlegt worden.
-
-Das frühere 2-Mio.-ARR-Ziel bleibt als langfristige Skalierungsambition dokumentiert. Der neue Exit-Korridor ist das konkretere erste Optionalitätsziel, aber **kein Beweis, dass 500.000 EUR ARR dafür ausreichen**. Siehe [Rechenmodell](../finance/economics.md).
-
-## Nächster Arbeitsfokus
-
-Dieses Brain prüfen und privat versioniert ablegen; dann das kleinste arbeitsfähige Cockpit anbinden. Anschließend einen begrenzten Kunden-/Pilottest durchführen. Keine Namenssuche, Portalentwicklung oder zusätzliche Agentenschicht zur Voraussetzung für Kundengespräche machen.
+## DECISION
+Do not overbuild infrastructure or organization before real customer work reveals the need.
