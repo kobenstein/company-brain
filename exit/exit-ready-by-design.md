@@ -1,30 +1,35 @@
-# Exit-Ready by Design
+---
+id: exit-exit-ready-by-design
+title: "Exit-ready by design — verkaufen können, nicht müssen"
+status: CORE
+authority: user_decision_with_valuation_limits
+reviewed_on: "2026-09-25"
+source_ids: ["S01", "S02"]
+sensitivity: founder_confidential
+---
 
-Status: CORE
+# Exit-ready by design — verkaufen können, nicht müssen
 
-## Objective
+## Bestätigtes Ziel
 
-Build a transferable, buyable company without forcing a sale.
+Transferability als Querschnitt in Academy und Unternehmensaufbau. Erste wirtschaftliche Orientierung: **ca. 1,4–1,5 Mio. EUR Verkaufspreis**, motiviert durch ungefähr 1 Mio. EUR persönliches Nettovermögen aus einem günstigen Verkaufsszenario. Das ist keine Garantie und kein verbindlicher Verkaufszeitpunkt.
 
-## First major optionality target
+## Was ein Käufer tatsächlich übernehmen können soll
 
-Approx. €1.4--1.5M sale value as a planning target. Motivation:
-potential path toward roughly €1M personal net proceeds under a
-favorable personal share-deal structure. Actual taxes, costs and deal
-structure require professional advice at the time.
+Wiederkehrende, übertragbare Kundenverträge; profitabler Betrieb; klare Firmenrechte an Skills/Code/Methoden; dokumentierte Abläufe; zuverlässige Datenherkunft; tragfähige Kundenbeziehungen; geringe Abhängigkeit von Jakob oder Pascal; rechtlich und technisch kontrollierte Accounts. Kundenmaterial bleibt nur im zulässigen Rahmen nutzbar.
 
-## Value drivers
+## Drei Trennungen
 
-Recurring revenue; retention; high margins; low customer concentration;
-low founder dependence; documented processes; company-owned
-IP/accounts/data/domains; reusable skills/learning systems; normalized
-buyer P&L.
+**Umsatz ≠ Gewinn:** Agentenkosten, API/Medien, Vertrieb, Support, Rework und menschliche Ersatzarbeit mitrechnen.
 
-## Later dashboard
+**Wissenssammlung ≠ Schutz vor Konkurrenz:** Portabilität und Dokumentation helfen Übergabe; sie beweisen keinen schwer kopierbaren Wettbewerbsvorteil.
 
-ARR/MRR; gross margin; adjusted EBITDA; founder replacement cost;
-retention/churn; customer concentration; growth; founder dependence.
+**Unternehmenswert ≠ privater Kontoeingang:** Schulden/überschüssiges Cash, Gesellschafterquoten, Transaktionskosten, Steuern, Rückbehalte und Earn-out beeinflussen den Erlös.
 
-## CORE
+## Regelmäßiger kurzer Check
 
-Transferability matters more than vanity revenue.
+Kann eine andere qualifizierte Person den Betrieb anhand des Systems fortführen? Wer besitzt welches IP? Wie viele Kunden und welche Konzentration? Bleiben Marge und Servicequalität ohne Jakobs unbezahlte Mitarbeit bestehen? Was passiert mit Pascal-Verträgen beim Verkauf? Welche Plattformabhängigkeit lässt sich nicht einfach übertragen?
+
+Keine scheinpräzise Exit-Wahrscheinlichkeit oder garantierten Multiples ins Cockpit schreiben. Ein späterer Exit-Readiness-Check ist eine Checkliste mit Evidenz, kein automatisches Wertgutachten.
+
+[Wirtschaftlichkeit und Szenarien](../finance/economics.md) · [Datenrechte](../governance/data-ownership.md)

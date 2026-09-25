@@ -1,0 +1,21 @@
+# Never store credentials or private exports
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets/
+private-exports/
+.DS_Store
+__pycache__/
+*.pyc
+# Media belong in asset storage, not this brain
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.ttf
+*.otf
+# Generated transport packages do not belong in history
+*.bundle
+*.zip

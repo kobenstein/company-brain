@@ -1,38 +1,44 @@
+---
+id: governance-impact-performance-governance
+title: "Impact Performance Governance"
+status: CORE
+authority: user_approved_principle_operational_draft
+reviewed_on: "2026-09-25"
+source_ids: ["S01", "S12", "S03"]
+sensitivity: company_confidential
+---
+
 # Impact Performance Governance
 
-Status: CORE framework v0.1
+**Zweck:** Pascal, Jakob und Agenten sollen auf dieselbe Definition von Erfolg hinarbeiten. Die Hierarchie ist gemeinsam befürwortet; die folgenden Prüfabläufe sind ihre erste operative Ausarbeitung, noch kein extern validiertes Gesamtverfahren.
 
-## 1. Impact Integrity --- constraint
+## Die Reihenfolge
 
-A creative must pass minimum integrity requirements before scaling: -
-truthful/supportable claims - no greenwashing - no misleading
-simplification - promoted action/product remains aligned with intended
-positive purpose
+**1. Integrität bestehen → 2. gewünschtes Geschäftsergebnis optimieren → 3. Creative-Signale zur Diagnose nutzen → 4. tatsächliche Wirkung separat belegen.**
 
-## 2. Business Outcome --- optimization target
+Keine gewichtete Punktzahl, bei der hoher ROAS eine falsche Aussage ausgleichen kann.
 
-Among compliant creatives, optimize relevant outcomes such as CAC,
-qualified leads, purchases, conversion rate and ROAS/MER where
-appropriate.
+| Ebene | Leitfrage | Konsequenz |
+|---|---|---|
+| Impact Integrity | Ist die Aussage wahr, belegt, angemessen und mit unserer Mission vereinbar? | Bei ungeklärtem kritischem Claim nicht veröffentlichen/skalierten Einsatz stoppen. |
+| Business Outcome | Welche zulässige Variante erzeugt wirtschaftlich sinnvolle Handlungen? | Vor Testbeginn relevante Zielgröße festlegen, z. B. qualifizierter Neukunde oder Deckungsbeitrag. |
+| Creative Diagnosis | Wo verliert die Kommunikation Menschen? | Hook, Watchtime, Klicks, Verständlichkeit und Ermüdung diagnostisch verwenden. |
+| Impact Outcome | Welche positive Veränderung entsteht tatsächlich zusätzlich? | Evidenzgrad und Grenzen berichten; Absatz nicht automatisch in Nettoimpact umrechnen. |
 
-## 3. Creative KPIs --- diagnostic layer
+## Vor jeder Kampagne: ein kurzes Wirkungsbriefing
 
-Hook rate, watch time, CTR, hold rate and fatigue explain performance;
-they are not the ultimate objective.
+Gewünschtes Verhalten; Zielgruppe; vermutete Barriere; unterstützende Produktbelege; Vergleichsfall; mögliche Nebenwirkungen; verbindliche Claims; Erfolgskriterium; Freigabeperson. Es kann sinnvoll sein, Wiederverwendung oder Komfort zu zeigen, ohne das Creative mit Umweltbotschaften zu überladen.
 
-## 4. Impact Outcome --- separate evidence layer
+## Konfliktregel — Entwurf
 
-Measure intended positive behavior/outcome where reasonably possible.
-Never infer long-term societal/ecological impact from short-term ad
-metrics alone.
+Ist Variante B günstiger im CAC, hat aber einen unbelegten Claim, ist sie kein Gewinner. Ist B ehrlich und erzielt bessere Geschäftsergebnisse, während A lediglich mehr Nachhaltigkeitswörter enthält, gewinnt A nicht automatisch. Wir prüfen die tatsächliche Handlung und ihre Wirkungskette, nicht „Impact-Look“.
 
-## Loops
+Bei Streit über einen Claim: Beleg prüfen, Formulierung verengen oder Freigabe blockieren. Bei Streit über Markenstil: Kunden-Brand-Regel und Qualitätsreview. Bei Datenkonflikt: Messung klären, nicht die bequemere Zahl auswählen. Die endgültige Verantwortungsverteilung mit Pascal und dem Kunden ist vertraglich noch offen.
 
-Fast: Learn → Hypothesis → Creative → Ad → Data → Learn Evidence: Claim
-→ Evidence → Creative → Performance → Impact
+## Was das System speichern soll
 
-## Current role hypothesis
+`campaign_id`, Produkt/Markt, Verhalten, Hypothese, `claim_ids`, Belegstatus, Creative-Version, Freigabe, Zielmetrik, Auswertungsfenster, Ergebnis, Unsicherheit und nächste Entscheidung. Nicht automatisch persönliche Merkmale der Betrachter sammeln.
 
-Jakob: creative/impact governance. Pascal: performance optimization
-inside agreed constraints. AI: analysis, hypothesis generation,
-iteration and knowledge capture.
+## Wichtige Grenze
+
+Das Framework ist unsere praktische Synthese. Seine Bausteine werden durch [Wissensmodule](../knowledge/sustainability-marketing.md) informiert. Daraus folgt nicht, dass die konkrete Ads Engine bereits wissenschaftlich validiert ist oder dass jede Kampagne positive Nettowirkung nachweist.

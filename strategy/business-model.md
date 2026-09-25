@@ -1,29 +1,40 @@
-# Business Model
+---
+id: strategy-business-model
+title: "Geschäftsmodell: Creative Intelligence statt Videomenge"
+status: HYPOTHESIS
+authority: curated_from_sources
+reviewed_on: "2026-09-25"
+source_ids: ["S01", "S02", "S07", "S10"]
+sensitivity: company_confidential
+---
 
-## DECISION
+# Geschäftsmodell: Creative Intelligence statt Videomenge
 
-Current wedge: AI-native paid-social creative systems for
-impact-oriented companies.
+## Aktuelle Arbeitshypothese
 
-## Customer problem
+Ein wiederkehrend genutztes Creative-Lernsystem für Impact-Unternehmen. Verkaufbar ist die Kombination aus verständlicher Kommunikation, sinnvoller Produktion, Brand-Konsistenz und wiederholtem Lernen aus realen Ergebnissen.
 
-Useful products/solutions often struggle to make their value immediately
-understandable, visible and compelling.
+## Zwei Ausprägungen, die noch nicht verwechselt werden dürfen
 
-Working framings: - Making solutions for humans and planet visible. -
-Advertising for people and the planet. - Creative systems for companies
-solving important problems.
+| Modell | Wir liefern | Kunde behält | Noch zu prüfen |
+|---|---|---|---|
+| Managed Creative Service | Konzepte, Creatives, Testauswertung und nächste Iteration | Freigabe, eigene Marke und in der Regel Ad-Accounts | Wiederkehrender Bedarf, Produktionsmarge, Scope |
+| Implementiertes Creative Agent System | Einrichtung, Skills, Orchestrierung, Evaluation und laufende Verbesserung | Brand Brain, operative Konten, Assets, Daten und möglichst API-Abrechnung | Einrichtungskosten, vertragliche Rechte, Wartbarkeit, laufender Kaufgrund |
 
-## HYPOTHESIS
+Der zweite Ansatz wurde von Jakob besonders positiv aufgenommen: **Orchestrierung und Taste verkaufen statt noch ein monolithisches Tool bauen.** Er ist aber noch kein technisch oder kommerziell validierter Service.
 
-Recurring retainers are preferred because repeated campaigns create
-learning loops and recurring revenue.
+## Denkbare Erlösbestandteile — nur Preis-/Paketoptionen
 
-Historic working mature-customer price hypothesis: \~€5,000/month. Not
-yet validated.
+Retainer, einmalige Implementierung und klar begrenzte nutzungsabhängige Leistung. In früheren Gesprächen wurden rund 5.000 EUR monatlich als Zielretainer sowie 5–15k Implementierung und 1–3k laufende Betreuung als andere Variante genannt. Keine dieser Spannen ist ein bestätigter Marktpreis oder ein beschlossenes Preisblatt.
 
-## DECISION
+## Was einen Retainer verdienen muss
 
-Do not build a monolithic proprietary creative tool merely to own
-software. Prefer orchestration, taste, reusable skills, data and
-learning systems that survive model changes.
+Ein wiederkehrender neuer Bedarf: nächste Kampagnenrunde, neue Kaufbarriere, neue Produktlinie, Lokalisierung oder überprüfte Verbesserung. „Der Agent ist eingerichtet“ allein begründet keine unbegrenzte laufende Gebühr.
+
+## Die Kostenrechnung muss ehrlich bleiben
+
+KI/API/Credits, Fehlgenerationen, Bearbeitung, menschliche Qualitätskontrolle, Pascal/Partnerleistung, Freigaben, Support, Vertrieb und Ersatz von Jakobs Arbeit. Vom Kunden direkt bezahlte Toolkosten transparent darstellen; sie verschwinden nicht aus dessen Gesamtkosten.
+
+## Abgrenzung
+
+Media Buying ist ein möglicher eigener Bereich. Landingpages, organische Kanäle, CRM, komplette Attribution und Client Portal werden nicht ungeprüft in das erste Paket gezogen.
