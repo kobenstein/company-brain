@@ -43,6 +43,8 @@
 ## Company OS
 - `os/architecture.md`
 - `os/knowledge-ingestion.md`
+- `os/session-sync.md` — daily cloud ingestion policy
+- `os/knowledge-retrieval.md` — on-demand context retrieval
 - `os/git-workflow.md`
 - `os/communications.md`
 - `os/deployment-status.md`
