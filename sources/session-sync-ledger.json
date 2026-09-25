@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "sources": {},
+  "coverage_gaps": ["Call transcription and mail ingestion are not connected."],
+  "baseline": "v0.3-english-canonical plus source-material preservation commit 4863883; reconcile new sessions against existing content before adding knowledge"
+}

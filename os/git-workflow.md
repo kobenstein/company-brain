@@ -13,7 +13,7 @@ Git still tracks exactly which individual files and lines changed.
 - `os:`
 
 ## Review policy
-Routine knowledge may eventually be committed automatically.
+Routine knowledge may be committed automatically under `os/session-sync.md`.
 Core strategy, governance, ownership and high-impact changes should be proposed for review.
 
 ## Versions
@@ -22,4 +22,4 @@ Core strategy, governance, ownership and high-impact changes should be proposed 
 - `v0.3-english-canonical`
 
 ## Remote
-Private GitHub remote is intended but **not connected yet**.
+Private remote verified and initial history uploaded on 2026-09-25: `https://github.com/kobenstein/company-brain.git`.

@@ -30,3 +30,6 @@ Canonical company knowledge is English. Original research, transcripts and sourc
 4. `strategy/business-model.md`
 5. `governance/impact-performance-governance.md`
 6. `os/architecture.md`
+
+## Keeping the Brain current
+See `os/session-sync.md` for source scope, review rules and synchronization. Deployment status is tracked separately in `os/deployment-status.md`.

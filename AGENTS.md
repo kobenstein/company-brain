@@ -10,3 +10,6 @@
 8. Use meaningful Git commits.
 9. Planned automations are not deployed automations.
 10. If current evidence conflicts with old material, update canonical state and preserve provenance in Git/source material.
+
+## Session synchronization
+Follow `os/session-sync.md` for periodic ingestion. At the end of company work in this repository, reconcile durable session outcomes when source access and GitHub authentication are available. Never imply that this file alone installs a global ChatGPT session-end hook.
