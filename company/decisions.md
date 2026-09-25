@@ -1,6 +1,7 @@
 # Decisions
 
 ## Active
+- **2026-09-25 — First beachhead test: Sustainable Home Cleaning.** Jakob explicitly selected this focus to validate the business. This is a test-scope decision, not validated market demand or a permanent vertical commitment. Source: task `01a0d809-e842-71b0-9570-c9b24987dd95`.
 - Build an AI-native company with positive social/environmental impact.
 - Use paid-social creative as the current entry wedge.
 - Impact integrity comes before performance optimization.
