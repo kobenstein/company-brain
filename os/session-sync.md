@@ -24,6 +24,11 @@ Never ingest unrelated personal conversations or assume access to unrecorded cal
 Source: Jakob, task `01a0d9d8-d503-7db0-8aa7-440abc572196` (Company Brain aktuell halten), 2026-09-25.
 Confidence: explicit operating preference. Deployment remains unverified.
 
+## DECISION — additional recurring budget
+Additional recurring spending is capped at EUR 0. Prefer existing ChatGPT subscription entitlements and already available GitHub capabilities. Do not enable paid API use, upgrades, paid hosting or metered overages. Included usage is still limited and shared with normal work. A free scheduler alone does not establish source access or a usable model runtime.
+Source: Jakob's explicit EUR 0 answer in task `01a0d9d8-d503-7db0-8aa7-440abc572196`, 2026-09-25.
+The first candidate is a native ChatGPT web/cloud scheduled workflow using existing entitlements. Its availability, GitHub write access and complete source access must be tested in that runtime before activation. No cloud workflow has been activated by recording this decision.
+
 ## Update procedure
 1. Read AGENTS.md, this protocol, current state and prior ingestion ledger. Verify remote `kobenstein/company-brain` is PRIVATE before any upload.
 2. Work from the latest remote main. With a Git checkout, require a clean working tree and fetch/fast-forward. With a GitHub API writer, base changes on the fetched commit and use a non-forced update; on concurrent changes, re-read and reconcile. Never overwrite user work or force-push.

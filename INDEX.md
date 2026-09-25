@@ -45,6 +45,8 @@
 - `os/knowledge-ingestion.md`
 - `os/session-sync.md` — daily cloud ingestion policy
 - `os/knowledge-retrieval.md` — on-demand context retrieval
+- `os/chatgpt-project-instructions.md` — prepared host-side instruction
+- `skills/company-brain/SKILL.md` — retrieval and authorized saving workflow
 - `os/git-workflow.md`
 - `os/communications.md`
 - `os/deployment-status.md`

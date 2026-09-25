@@ -10,7 +10,10 @@
 
 ## Prepared, not yet verified as running
 - Daily cloud reconciliation is the chosen operating model in `os/session-sync.md`; it must work with Jakob's Mac off. The earlier hourly local proposal is superseded.
-- On-demand retrieval procedure documented in `os/knowledge-retrieval.md`; host-side instructions/skill activation and cross-chat acceptance tests remain to be completed.
+- Retrieval skill `skills/company-brain/SKILL.md` created, structurally validated with the skill-creator validator, and installed at `/Users/jakob/.codex/skills/company-brain/SKILL.md`. Automatic selection in a fresh Codex session has not yet been behaviorally verified.
+- ChatGPT project instruction prepared in `os/chatgpt-project-instructions.md`; not applied to the web project's settings. Local installation does not install a web/mobile plugin.
+- Additional recurring budget is EUR 0. Native web/cloud scheduling with existing entitlements is the first candidate, not a verified deployment.
+- Account-specific web capability inspection could not be completed: browser automation failed to initialize with a sandbox runtime error. Cloud source access and writes remain unverified.
 - Cloud runtime, exact daily schedule, source coverage and unattended credentials remain to be configured and tested. Existing desktop access does not prove cloud access.
 - Scheduled synchronization has not been activated or verified by this documentation change.
 
