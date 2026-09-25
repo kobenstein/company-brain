@@ -1,6 +1,7 @@
 # Decisions
 
 ## Active
+- **2026-09-26 — “Creative Intelligence Systems” adopted as strong working category language.** The company is not framed as a producer of more AI videos, but as a system that learns which angles, hooks, concepts and executions work for a brand and feeds performance learning into the next generation of creative. This is positioning language, not yet a final company name.
 - **2026-09-25 — First beachhead test: Sustainable Home Cleaning.** Jakob explicitly selected this focus to validate the business. This is a test-scope decision, not validated market demand or a permanent vertical commitment. Source: task `01a0d809-e842-71b0-9570-c9b24987dd95`.
 - Build an AI-native company with positive social/environmental impact.
 - Use paid-social creative as the current entry wedge.
