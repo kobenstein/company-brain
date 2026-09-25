@@ -17,10 +17,17 @@ Working framings:
 - Advertising for people and the planet.
 - Creative systems for companies solving important problems.
 
-## HYPOTHESIS — first ICP
-Repeat-purchase impact brands with an existing performance-marketing function appear promising, especially refill, household and personal-care brands.
+## DECISION — first beachhead test
+Focus the first market-validation test on **Sustainable Home Cleaning**.
+This narrows the initial test to sustainable household-cleaning brands; it is not a claim that this market or the offer is already validated, nor a permanent commitment to this vertical.
 
-This is a market-research hypothesis, not confirmed buying intent.
+- Decision owner: Jakob.
+- Source: explicit user decision in task `01a0d809-e842-71b0-9570-c9b24987dd95`, 2026-09-25.
+- Confidence: confirmed test direction; market demand remains unvalidated.
+- Still open: specific prospect/product, geography, offer, price and validation thresholds.
+
+## HYPOTHESIS — customer fit within the test market
+Repeat-purchase brands with an existing performance-marketing function remain a promising customer-fit hypothesis. Buying intent and willingness to pay still need evidence. Broader refill and personal-care opportunities remain outside the first test focus.
 
 ## OPEN QUESTIONS
 - final company/brand name,
