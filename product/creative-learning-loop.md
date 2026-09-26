@@ -27,3 +27,21 @@ What produces useful business outcomes.
 Never silently equate them.
 
 The long-term asset is the accumulated decision system — the **Creative Intelligence** — not the raw number of generated videos.
+
+## Production-skill principle
+Use a **small, curated library of highly reliable Creative Production Skills** rather than a broad set of partially dependable generation methods.
+
+A production skill is only admitted once it is:
+- reproducibly top-notch,
+- highly automatable,
+- brand-safe and controllable,
+- relevant to the target vertical,
+- able to ingest Domain Brain + Client Brain context without losing brand identity.
+
+The production layer should stay standardized and dependable; creative variation should happen primarily in the decision layer through changing angles, hooks, scripts, concepts, music, audiences, offers and other hypotheses.
+
+**Guiding principle:** Standardize the production capability, not the creative idea.
+
+This allows the same underlying production skill to serve multiple clients while still producing clearly differentiated work, because each execution is conditioned by distinct client context, brand rules and domain intelligence.
+
+For the MVP, prefer roughly **2–3 production skills that work extremely reliably** over 20 weaker options. New AI capabilities should only be added after they mature enough to deliver consistently strong output with minimal intervention.
