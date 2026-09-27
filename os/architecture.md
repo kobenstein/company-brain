@@ -20,3 +20,17 @@ Model-agnostic. OpenAI can be primary; other models may be used where a concrete
 
 ## Automation
 Do not add n8n, Jev or custom infrastructure until native workflows fail or repeated complexity justifies them.
+
+## Cost measurement / observability
+Cost attribution must be considered from the start when designing agentic client workflows, even if the first implementation stays lightweight.
+
+The system should make it possible to attribute AI and tool usage at least by:
+- client / customer
+- agent or workflow
+- provider / tool
+- model or generation type where practical
+- date / run
+
+Relevant external costs (for example OpenAI / Workspace-agent usage, fal.ai, Runway, Higgsfield or other generation providers) should be combinable into a per-client cost view.
+
+Do not rely on a provider's shared workspace billing alone as the long-term customer cost-accounting layer. Prefer an internal usage/cost log once workflow volume justifies it, so margins and customer economics can be measured reliably.
