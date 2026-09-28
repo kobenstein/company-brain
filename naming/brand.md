@@ -16,6 +16,8 @@ Current possible naming candidates:
 - **Evoltage** — evolve + voltage; evolution, energy, momentum
 - **Swarmind** — swarm + mind; collective / distributed intelligence
 - **Sensibly** — exploratory candidate; appealing sound/letterform and associations with sense, judgment and intelligence
+- **Musevolt** — muse + revolt/voltage; artistic inspiration + positive rebellion/energy
+- **Artvolt** — art + revolt/voltage; creativity + rebellious energy
 
 Status: exploratory candidates only, not selected.
 
