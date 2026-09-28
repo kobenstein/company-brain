@@ -15,6 +15,7 @@ Current possible naming candidates:
 - **Selectric** — select + electric; selection, energy, speed
 - **Evoltage** — evolve + voltage; evolution, energy, momentum
 - **Swarmind** — swarm + mind; collective / distributed intelligence
+- **Sensibly** — exploratory candidate; appealing sound/letterform and associations with sense, judgment and intelligence
 
 Status: exploratory candidates only, not selected.
 
